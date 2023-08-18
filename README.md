@@ -1,1 +1,1 @@
-# Learning_Pennylane_Qanadu
+# Learning_Pennylane_Xanadu
